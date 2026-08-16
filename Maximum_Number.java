@@ -1,4 +1,4 @@
-public class MaximumNumber {
+public class Maximum_Number {
     public static void main(String[] args) {
 
         int max = Integer.parseInt(args[0]);
